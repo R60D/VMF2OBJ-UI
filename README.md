@@ -1,5 +1,6 @@
 ## What is this?
    - Simple to use UI for [VMF2OBJ](https://github.com/Dylancyclone/VMF2OBJ) made in python.
+   - Currenty only works with TF2
 ## How do I use it?
   - Just put it in the same folder as the VMF2OBJ.jar file and launch it.
 ## Options
