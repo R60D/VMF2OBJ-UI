@@ -4,7 +4,7 @@
 ## How do I use it?
   - Just put it in the same folder as the VMF2OBJ.jar file and launch it.
 ## Example
-![Example](https://github.com/R60D/VMF2OBJ-UI/blob/master/capture.png?raw=true)
+![Example](https://github.com/R60D/VMF2OBJ-UI/blob/master/Capture.PNG?raw=true)
 ## Troubleshooting
 If you are  having problems try launching it in administration mode and update python to latest version
 
